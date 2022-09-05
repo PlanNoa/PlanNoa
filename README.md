@@ -12,8 +12,6 @@
 - Implement the [ant model](https://github.com/PlanNoa/Ant)
 
 ### 📫 How to reach me
-- facebook: https://www.facebook.com/Plannoa1937
-- rocketpunch: https://www.rocketpunch.com/@plannoa
 - email: 2heewoong@naver.com
 
 <!--
